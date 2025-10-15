@@ -71,3 +71,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 # PR Merge: 2025-10-16 - fix/merge-6615
 
 # PR Merge: 2025-10-16 - refactor/merge-5008
+
+# PR Merge: 2025-10-16 - fix/merge-1830
